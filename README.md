@@ -1,4 +1,13 @@
-### Hi there 👋
+## About me  💬
+
+I am a frontend developer with demonstrated strong experience working with commercial complex apps for retails, banks and etc.
+
+#### Random facts about me: I’m currently learning algorithms and data structures
+
+
+## Stack  ⚡
+React, Typescript, Redux and I have work experience with RTK-Query, Redux-Thunk, ccs-modules, html5
+
 
 <!--
 **ChristieKh/ChristieKh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
