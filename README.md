@@ -2,11 +2,11 @@
 
 I am a frontend developer with demonstrated strong experience working with commercial complex apps for retails, banks and etc.
 
-#### Random facts about me: I’m currently learning algorithms and data structures
+#### I’m currently learning algorithms and data structures
 
 
 ## Stack  ⚡
-React, Typescript, Redux and I have work experience with RTK-Query, Redux-Thunk, ccs-modules, html5
+React, Typescript, Redux, RTK-Query, Redux-Thunk, GraphQl, Next.js, ccs-modules, html5
 
 
 <!--
