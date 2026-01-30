@@ -1,15 +1,20 @@
-Hi 👋 My name is Kristina Bylina
-================================
+# Kristina — Genomic Data Scientist
 
-Bioinformatician
-------------------
+Computational biology / bioinformatics practitioner with a strong software engineering background. I build reproducible genomics pipelines and focus on understanding both the technical and biological rationale behind each step.
 
-* 🧠  I'm learning data structures and algorithms
-* 🤝  I'm open to collaborating on interesting projects
+## Focus
 
-### Skills
+* RNA-seq analysis (QC → alignment → quantification)
+* Germline variant calling (WES trio, GATK Best Practices)
+* Genomics workflows, data quality, and interpretation
 
+## Projects
 
-### Socials
+* **RNA-seq pipeline (human skeletal muscle)** — end-to-end analysis from raw FASTQ to gene-level counts
+* **WES Trio Analysis** — germline variant calling and interpretation for a parent–offspring trio
 
-<p align="left"> <a href="https://www.github.com/ChristieKh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kristina-bylina/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+## Tools
+
+Bash · Python · R · BWA · STAR · GATK · Picard · SAMtools · FastQC · MultiQC
+
+Building expertise in genomic data science through well-documented, production-style projects.
