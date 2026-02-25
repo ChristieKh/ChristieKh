@@ -1,6 +1,8 @@
 # Kristina — Genomic Data Scientist
 
-Computational biology / bioinformatics practitioner with a strong software engineering background. I build reproducible genomics pipelines and focus on understanding both the technical and biological rationale behind each step.
+Computational biology / bioinformatics practitioner with a strong software engineering background. 
+
+I build reproducible genomics pipelines and focus on understanding both the technical and biological rationale behind each step.
 
 ## Focus
 
