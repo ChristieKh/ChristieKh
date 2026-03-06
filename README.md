@@ -1,22 +1,23 @@
-# Kristina — Genomic Data Scientist
+# Kristina — Genomic Data Analyst
 
-Computational biology / bioinformatics practitioner with a strong software engineering background. 
+Genomic data analyst with a software engineering background, focused on interpreting genomic datasets through reproducible computational analysis.
 
-I build reproducible genomics pipelines and focus on understanding both the technical and biological rationale behind each step.
+My work combines bioinformatics pipelines with analytical reasoning to identify biologically plausible variant candidates and understand the genetic basis of disease phenotypes.
 
 ## Focus
 
-* RNA-seq analysis (QC → alignment → quantification)
-* Germline variant calling (WES trio, GATK Best Practices)
-* Genomics workflows, data quality, and interpretation
+- Germline variant discovery and interpretation (WES, trio analysis)
+- RNA-seq analysis and gene-level expression interpretation
+- Genomic data quality assessment and filtering strategies
+- Inheritance-driven variant prioritization
 
 ## Projects
 
-* **RNA-seq pipeline (human skeletal muscle)** — end-to-end analysis from raw FASTQ to gene-level counts
-* **WES Trio Analysis** — germline variant calling and interpretation for a parent–offspring trio
+- **WES Trio Variant Discovery** — analytical reconstruction of a clinical WES trio case, evaluating multiple inheritance models and prioritizing candidate variants
+- **RNA-seq pipeline (human skeletal muscle)** — analysis workflow from raw FASTQ to gene-level expression quantification
 
 ## Tools
 
-Bash · Python · R · BWA · STAR · GATK · Picard · SAMtools · FastQC · MultiQC
+Python · R · Bash · BWA · STAR · GATK · Picard · SAMtools · FastQC · MultiQC
 
-Building expertise in genomic data science through well-documented, production-style projects.
+Building expertise in genomic data analysis through well-documented case studies and reproducible computational workflows.
