@@ -15,7 +15,7 @@ My work combines bioinformatics pipelines with analytical reasoning to identify 
 
 - **WES Trio Variant Discovery** — analytical reconstruction of a clinical WES trio case, evaluating multiple inheritance models and prioritizing candidate variants
 - **RNA-seq pipeline (human skeletal muscle)** — analysis workflow from raw FASTQ to gene-level expression quantification
-- **RNA-seq differential expression (HCM vs AS, in progress)** — bulk RNA-seq reanalysis of human myocardium comparing hypertrophic cardiomyopathy and aortic stenosis, including QC, normalization, and downstream statistical analysis
+- **RNA-seq differential expression (HCM vs AS)** — bulk RNA-seq reanalysis of human myocardium comparing hypertrophic cardiomyopathy and aortic stenosis, including QC, normalization, and downstream statistical analysis
 
 ## Tools
 
