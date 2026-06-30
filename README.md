@@ -17,18 +17,15 @@ I work at the intersection of genomics and computational reasoning — interpret
 Analytical reconstruction of a clinical WES trio case. Evaluated multiple inheritance models and narrowed 696,572 raw variants to 20 candidates, identifying **GBE1** (AR, homozygous) as the likely pathogenic variant for Glycogen Storage Disease type IV.
 
 ### [RNA-seq: HCM vs Aortic Stenosis](https://github.com/ChristieKh/bulk-rnaseq-heart-failure)
-Bulk RNA-seq reanalysis of human myocardium. GSEA identified a mitochondrial/energetic program elevated in HCM that the original study's enrichment method (ORA) could not detect.
+Bulk RNA-seq reanalysis of human myocardium. 
+**GSEA identified a mitochondrial/energetic program elevated in HCM that the original study's enrichment method (ORA) could not detect.**
 
-### [RNA-seq Pipeline (skeletal muscle)](https://github.com/ChristieKh/rna-seq-pipeline-skeletal-muscle)
+### [RNA-seq Pipeline: Skeletal muscle](https://github.com/ChristieKh/rna-seq-pipeline-skeletal-muscle)
 End-to-end workflow from raw FASTQ to gene-level expression quantification (~95% alignment rate). Confirmed tissue-specific expression of contractile proteins (TTN, NEB, ACTA1).
 
 ## 🛠 Tools
 
-**Languages:** Python · R · Bash
-
-**Alignment/Variant calling:** BWA · STAR · GATK · Picard · SAMtools
-
-**QC:** FastQC · MultiQC
+Python · R · Bash · BWA · STAR · HISAT2 · GATK · Picard · SAMtools · DESeq2 · featureCounts · cutadapt · FastQC · MultiQC
 
 ---
 Building bioinformatics expertise through well-documented case studies and reproducible workflows.
