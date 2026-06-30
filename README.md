@@ -1,24 +1,34 @@
-# Kristina — Genomic Data Analyst
+# Hi, I'm Kristina 👋
 
-Genomic data analyst with a software engineering background, focused on interpreting genomic datasets through reproducible computational analysis.
+**Genomic Data Analyst** with a software engineering background, transitioning into bioinformatics through independent, reproducible analysis projects.
 
-My work combines bioinformatics pipelines with analytical reasoning to identify biologically plausible variant candidates and understand the genetic basis of disease phenotypes.
+I work at the intersection of genomics and computational reasoning — interpreting variant and expression data to understand the genetic basis of disease phenotypes.
 
-## Focus
+## 🔍 Exploring
 
 - Germline variant discovery and interpretation (WES, trio analysis)
-- RNA-seq analysis and gene-level expression interpretation
-- Genomic data quality assessment and filtering strategies
+- RNA-seq analysis and differential expression interpretation
+- Genomic QC and filtering strategies
 - Inheritance-driven variant prioritization
 
-## Projects
+## 📁 Projects
 
-- **WES Trio Variant Discovery** — analytical reconstruction of a clinical WES trio case, evaluating multiple inheritance models and prioritizing candidate variants
-- **RNA-seq pipeline (human skeletal muscle)** — analysis workflow from raw FASTQ to gene-level expression quantification
-- **RNA-seq differential expression (HCM vs AS)** — bulk RNA-seq reanalysis of human myocardium comparing hypertrophic cardiomyopathy and aortic stenosis, including QC, normalization, and downstream statistical analysis
+### [WES Trio Variant Discovery](https://github.com/ChristieKh/wes-trio-variant-calling)
+Analytical reconstruction of a clinical WES trio case. Evaluated multiple inheritance models and narrowed 696,572 raw variants to 20 candidates, identifying **GBE1** (AR, homozygous) as the likely pathogenic variant for Glycogen Storage Disease type IV.
 
-## Tools
+### [RNA-seq: HCM vs Aortic Stenosis](https://github.com/ChristieKh/bulk-rnaseq-heart-failure)
+Bulk RNA-seq reanalysis of human myocardium. GSEA identified a mitochondrial/energetic program elevated in HCM that the original study's enrichment method (ORA) could not detect.
 
-Python · R · Bash · BWA · STAR · GATK · Picard · SAMtools · FastQC · MultiQC
+### [RNA-seq Pipeline (skeletal muscle)](https://github.com/ChristieKh/rna-seq-pipeline-skeletal-muscle)
+End-to-end workflow from raw FASTQ to gene-level expression quantification (~95% alignment rate). Confirmed tissue-specific expression of contractile proteins (TTN, NEB, ACTA1).
 
-Building expertise in genomic data analysis through well-documented case studies and reproducible computational workflows.
+## 🛠 Tools
+
+**Languages:** Python · R · Bash
+
+**Alignment/Variant calling:** BWA · STAR · GATK · Picard · SAMtools
+
+**QC:** FastQC · MultiQC
+
+---
+Building bioinformatics expertise through well-documented case studies and reproducible workflows.
